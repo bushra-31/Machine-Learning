@@ -1,1 +1,3 @@
 # Machine-Learning
+### Introduction to Machine Learning 
+Machine learning  is  a  set  of  methods  which  enables  the  computer  to  take  decisions  or infer conclusionswithout  us guiding  it. Machine  learning  focuses  on the development  of  computer programsthat can access data and use it to learn for themselves.The primary aim is to allow the computers to learn automaticallywithout human intervention or assistance  and adjust  actions  accordingly. For  Example,it  is  just  like  how  babies  learn  to  walk. Every time they fall, they learn from their mistakes (i.e., notto stand like that again).
