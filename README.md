@@ -19,10 +19,10 @@ Similarly, machines also work & develop intuition from their environment. It is 
 
 #### Following are the Data sets where few Techniques have been implemented 
 - Firstly a basic statistical method has been done on IRIS data set. 
-- IRIS data set is basically classification problem.
+##### IRIS data set is basically classification problem.
 - Logistic regression is the method used to classify the flowers
 Link provided below for the notebook
 - [link to jupyter notebook](https://github.com/bushra-31/Machine-Learning/blob/main/ML%20on%20IRIS%20data%20set/iris%20dataset%20new.ipynb "link to jupyter notebook")
 
-- Linear Regression on Sales data set 
-- [link to jupyter notebook](
+##### Linear Regression on Sales data set 
+- [link to jupyter notebook](https://github.com/bushra-31/Machine-Learning/blob/main/Sales%20on%20TV%20%2C%20Radio%20%2C%20Newspaper/Linear%20Regression%20on%20Sales%20Date.ipynb "link to jupyter notebook")
