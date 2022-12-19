@@ -16,3 +16,6 @@ Similarly, machines also work & develop intuition from their environment. It is 
 - In  this  type  of  learning,  an  agent  learns  in  an  interactive environment by trial and error using feedback from its actions and experiences.
 
 [![](https://raw.githubusercontent.com/bushra-31/Machine-Learning/main/Images.md/types%20of%20ml.jpeg)](http://https://raw.githubusercontent.com/bushra-31/Machine-Learning/main/Images.md/types%20of%20ml.jpeg)
+
+- Firstly a basic statistical method has been done on IRIS data set. Link provided below for the notebook
+- [link to jupyter notebook](https://github.com/bushra-31/Machine-Learning/blob/main/ML%20on%20IRIS%20data%20set/iris%20dataset%20new.ipynb "link to jupyter notebook")
